@@ -5,7 +5,7 @@ Currently functional smartthings device handler and node.js script for broadlink
 ## Requires
 
 1. broadlink-js-smth
-   - npm install broadlink-js-smth
+   - git clone https://github.com/slasherLee/broadlink-js-smth
    
 ## Credits
 
